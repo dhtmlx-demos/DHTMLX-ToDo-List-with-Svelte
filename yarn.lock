@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@dhx/trial-todolist@1.2.3":
-  version "1.2.3"
-  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-todolist/-/trial-todolist-1.2.3.tgz#431f5e1018c286faf97f7823aa9b01be625556c9"
-  integrity sha512-EqpcanGzx5fKfwHbeIVEno7Ch8gvAvUIAXfgIRB2GhYdtgMpUihi9gSJASxo/bRJMMK18VenqWYbWvR4bWfl/w==
+"@dhx/trial-todolist@^1.2.8":
+  version "1.2.8"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-todolist/-/trial-todolist-1.2.8.tgz#7b2194fced99fd147f1d23b04ceb3526127dd831"
+  integrity sha512-0kPvTDguKymcz7yw57GUCVy/FJZ4vcrr7aV+DCElyBEWtdTod5wC7V5gsuVhpkSUzGHOR8awsLXHrhyhXq/2JA==
 
 "@jridgewell/gen-mapping@^0.3.0":
   version "0.3.3"

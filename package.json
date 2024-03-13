@@ -12,7 +12,7 @@
     "sirv-cli": "^2.0.2"
   },
   "dependencies": {
-    "@dhx/trial-todolist": "1.2.3",
+    "@dhx/trial-todolist": "^1.2.8",
     "rollup-plugin-css-only": "^4.3.0",
     "svelte": "^3.59.2"
   },
